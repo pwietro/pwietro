@@ -24,14 +24,14 @@
 
 ---
 
-### ⟡ sobre
+### ✴︎ sobre
 
 olá! sou o Pietro, apaixonado pela interseção entre design e tecnologia.
 gosto de criar interfaces que sejam bonitas **e** funcionais — onde cada detalhe tem propósito.
 
 ---
 
-### ˚✦ o que eu faço
+### ✴︎ o que eu faço
 
 ```
 ⋆  ux & ui design      →  pesquisa, wireframes, protótipos e design systems
@@ -43,7 +43,7 @@ gosto de criar interfaces que sejam bonitas **e** funcionais — onde cada detal
 
 ---
 
-### ⟡ foco atual
+### ✴︎ foco atual
 
 > *construindo experiências onde o usuário nem percebe o design — ele simplesmente funciona.*
 
@@ -53,7 +53,7 @@ gosto de criar interfaces que sejam bonitas **e** funcionais — onde cada detal
 
 ---
 
-### ⟡ contato
+### ✴︎ contato
 
 <div align="center">
 
