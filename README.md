@@ -47,9 +47,9 @@ gosto de criar interfaces que sejam bonitas **e** funcionais, onde cada detalhe 
 
 > *construindo experiências onde o usuário nem percebe o design, ele simplesmente funciona.*
 
-- explorando **design systems** escaláveis no Figma
-- desenvolvendo apps com **Flutter** do zero ao deploy
-- conectando **Python** ao fluxo de trabalho de design
+- explorando **design systems** escaláveis no figma
+- desenvolvendo apps com **flutter** do zero ao deploy
+- conectando **python** ao fluxo de trabalho de design
 
 ---
 
