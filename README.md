@@ -64,6 +64,6 @@ gosto de criar interfaces que sejam bonitas **e** funcionais, onde cada detalhe 
 
 ⋆˙⟡ ·˚ ⋆ ·˚ ⟡˙⋆ ·˚ ⋆ ·˚ ⟡˙⋆
 
-*obrigado por visitar ˚*
+*obrigado por visitar*
 
 </div>
