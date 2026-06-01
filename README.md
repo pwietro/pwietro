@@ -8,7 +8,7 @@
 
 # pietro avelino
 
-*estudante de programação*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=FFB5C0&width=435&lines=estudante+de+programa%C3%A7%C3%A3+)](https://git.io/typing-svg)
 
 <br>
 
