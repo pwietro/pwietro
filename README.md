@@ -60,10 +60,12 @@ gosto de criar interfaces que sejam bonitas **e** funcionais, onde cada detalhe 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pietroavelino)
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pietro@email.com)
 
+---
+
 <br>
 
-⋆˙⟡ ·˚ ⋆ ·˚ ⟡˙⋆ ·˚ ⋆ ·˚ ⟡˙⋆
+*ੈ✩‧₊˚
 
-*obrigado por visitar*
+*obrigado por visitar!*
 
 </div>
