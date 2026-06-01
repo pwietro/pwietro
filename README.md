@@ -26,8 +26,8 @@
 
 ### ˚✦ sobre
 
-olá! sou o Pietro, apaixonado pela interseção entre design e tecnologia.
-gosto de criar interfaces que sejam bonitas **e** funcionais — onde cada detalhe tem propósito.
+olá! sou o pietro, apaixonado pela interseção entre design e tecnologia.
+gosto de criar interfaces que sejam bonitas **e** funcionais, onde cada detalhe tem propósito.
 
 ---
 
@@ -45,7 +45,7 @@ gosto de criar interfaces que sejam bonitas **e** funcionais — onde cada detal
 
 ### ⟡ foco atual
 
-> *construindo experiências onde o usuário nem percebe o design — ele simplesmente funciona.*
+> *construindo experiências onde o usuário nem percebe o design, ele simplesmente funciona.*
 
 - explorando **design systems** escaláveis no Figma
 - desenvolvendo apps com **Flutter** do zero ao deploy
@@ -53,7 +53,7 @@ gosto de criar interfaces que sejam bonitas **e** funcionais — onde cada detal
 
 ---
 
-### ✴︎ contato
+### ⟡ contato
 
 <div align="center">
 
